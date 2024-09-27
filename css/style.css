@@ -133,3 +133,17 @@ img {
     max-width: 100%;
   }
 }
+
+@media screen and (max-width: 480px) {
+  .container {
+    max-width: 100%;
+  }
+
+  .row {
+    display: block;
+  }
+
+  .lessons .col {
+    width: 100%;
+  }
+}
