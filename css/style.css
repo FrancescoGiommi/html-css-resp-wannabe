@@ -145,10 +145,20 @@ img {
 
   .lessons .col {
     width: 100%;
+    margin-bottom: 60px;
   }
 
   .steps .col {
     width: 100%;
     margin-bottom: 50px;
+  }
+
+  .why-us .col-left {
+    width: 100%;
+  }
+
+  .why-us .col-right {
+    width: 100%;
+    margin-top: 50px;
   }
 }
